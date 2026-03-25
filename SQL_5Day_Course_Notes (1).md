@@ -275,6 +275,8 @@ Today i learn how to create database and table . and how  to insert data in tabl
 Commands I found difficut : From my side difficult command for me was  select * from students  ORDER BY age DESC  LIMIT 3;
 
 
+
+
 My doubts:
 MY  doubts is that how i can know that if i want to search some data froma any column that  is not present . hwo i can find it and i am able to know it
 
